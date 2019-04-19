@@ -1,0 +1,69 @@
+{
+  "products": {
+    "1": {
+      "id": 1,
+      "name": "balck bag",
+      "description": "balck bag lether",
+      "price": 50,
+      "discount": 0.5,
+      "isOnSale": true,
+      "tags": [
+        "bages",
+        "accessores"
+      ],
+      "catogeries": "accessores"
+    },
+    "2": {
+      "id": 2,
+      "name": "white bag",
+      "description": "balck bag lether",
+      "price": 60,
+      "discount": 0.6,
+      "isOnSale": false,
+      "tags": [
+        "bages",
+        "accessores"
+      ],
+      "catogeries": "accessores"
+    },
+    "3": {
+      "id": 3,
+      "name": "laptop2",
+      "description": "red bag lether",
+      "price": 990,
+      "discount": 0.4,
+      "isOnSale": true,
+      "tags": [
+        "bages",
+        "accessores"
+      ],
+      "catogeries": "accessores"
+    },
+    "4": {
+      "id": 4,
+      "name": "orange bag",
+      "description": "orange bag lether",
+      "price": 990,
+      "discount": 0.4,
+      "isOnSale": true,
+      "tags": [
+        "bages",
+        "accessores"
+      ],
+      "catogeries": "accessores"
+    },
+    "undefined": {
+      "id": 3,
+      "name": "laptop2",
+      "description": "red bag lether",
+      "price": 990,
+      "discount": 0.4,
+      "isOnSale": true,
+      "tags": [
+        "bages",
+        "accessores"
+      ],
+      "catogeries": "accessores"
+    }
+  }
+}
